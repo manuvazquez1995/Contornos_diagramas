@@ -2,10 +2,15 @@
 
 ## Ejemplos de diagramas de clases.
 
-## 1. Diagrama de clase de un un banco.
 
+## 1. Diagrama de clase de un un banco.
 ![](Diagramas/Diagrama1.drawio.svg)
 
-##2. Diagrama de clase del programa en Kotlin.
 
+## 2. Diagrama de clase del programa en Kotlin.
 ![](Diagramas/Diagrama2.drawio.svg)
+
+
+## 3. Gestión de clientes y Facturas.
+![](Diagramas/Diagrama3.drawio.svg)
+
